@@ -1,4 +1,4 @@
 start
 gipital
 pa9tfe
-6-10
+6-10 
