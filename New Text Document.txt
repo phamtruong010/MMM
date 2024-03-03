@@ -2,3 +2,4 @@ RSrDN2WNB7TacvbW6cbhduXsMfZFD465hn
 https://github.com/MakeItEasyDev/Jetpack-Compose-Multi-Language-Support
 https://github.com/mohammadjoumani/multi_theme_jetpack_compose/tree/main
 test240302.d1gu8swbdwzgx.amplifyapp.com/test.json
+https://github.com/CrisAngelT/PokemonApi.git
