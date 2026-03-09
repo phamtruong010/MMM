@@ -6,3 +6,5 @@ ugymve
 6-10 
 Đây nhá: 00008130-001A09A22803401C
 https://upfile.live/vi/files/4baa7b53
+
+myapp://cgsi-uat-api.equix.app/sso?state=08cc262f-88cb-4476-8e5a-9b271550133c&session_state=1f9a7a0c-dc8b-49f8-a169-137823dec77eMocode=92c75be2-6b38-4c67-ac2d-e736a682f01f.1f9a7a0c-dc8b-49f8-a169-137823dec77e.23181bd3-4721-43d6-ae6f-c0ee7fd8ef1c
